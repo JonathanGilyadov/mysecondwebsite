@@ -1,0 +1,90 @@
+/**********************************
+HEADER
+***********************************/
+body{
+    margin:0;
+}
+header{
+    margin-bottom: 30px;
+    padding-top: 5px;
+    width: 100%;
+    text-align: center;
+    background-color: #6ab47b;
+}
+header a{
+    text-decoration: none;
+    color: #fff;
+}
+h1{
+    font-family: 'Indie Flower', cursive;
+    margin: 15px 0;
+    font-size: 1.75em;
+    font-weight: normal;
+    line-height: 0.8em;
+    color: #fff;
+}
+h2{
+    font-size: 1em;
+    margin: -5px 0 0;
+    font-weight: normal;
+    color: #fff;
+}
+nav{
+    text-align: center;
+    padding: 10px 0;
+    margin: 20px 0 0;
+    background: #599a68;
+    width: 100%
+}
+nav a {
+    font-weight: 800;
+    padding: 0 10px;
+    margin:0 0 30px;
+}
+nav a:hover{
+    color:#32673f;
+}
+
+/**********************************
+the middle of the page
+***********************************/
+
+section{
+    text-align: center;
+}
+/********************************
+the footer
+*********************************/
+footer {
+    position: fixed;
+    bottom: 0;
+    padding: 10px;
+    font-family: sans-serif;
+    color:#fff;
+    background-color:#599a68;
+    padding:10px;
+    width:100%;
+    text-align: center;
+}
+
+.htmlphoto{
+    margin: auto;
+   max-height: 10%; 
+   max-width: 33%;
+   display:block; 
+}
+
+.abouttext{
+     list-style-type:none;   
+}
+
+.Gmailphoto{
+    max-width:200px;
+    max-height:200px;
+    
+}
+
+.mobilephoto{
+    max-width:200px;
+    max-height:100px;
+}
